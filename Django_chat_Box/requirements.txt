@@ -16,7 +16,7 @@ constantly==15.1.0
 cryptography==2.7
 daphne==2.3.0
 Django==2.1.7
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 hiredis==1.0.0
 httplib2==0.13.1
 hyperlink==19.0.0
